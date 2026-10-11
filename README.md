@@ -149,7 +149,7 @@ PORT=5000
 
 ## 👩‍💻 Author
 
-**Your Name**
+**Vijaya Pawar**
 
 ---
 
