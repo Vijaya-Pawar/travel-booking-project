@@ -9,7 +9,7 @@ This is a **full-stack Travel Booking Web Application** that allows users to:
 * Book trips easily
 
 The system is designed to provide a smooth and user-friendly experience for managing travel bookings.
-
+ 
 ---
 
 ## 🚀 Features
