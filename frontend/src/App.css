@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #FFFFF0;
+}
+
+/* Smooth links */
+a {
+  text-decoration: none;
+}
+
+/* Buttons (global style) */
+button {
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+button:hover {
+  opacity: 0.85;
+}
+
+/* Utility spacing */
+.container-custom {
+  padding: 20px 40px;
+}

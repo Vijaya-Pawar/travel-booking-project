@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #0B3C5D;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #FFFFF0;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #0B3C5D;
+}
